@@ -1,5 +1,5 @@
 # Laravel 5 Simple CMS
-Laravel 5.1 content management system for starters.
+Laravel 5.1 content management system for starters. For 5.2, see the master branch.
 
 -----
 ##Table of Contents
