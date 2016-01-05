@@ -39,7 +39,7 @@ Laravel 5.1 content management system for starters. For 5.2, see the master bran
 <a name="item3"></a>
 ##Quick Start:
 
-    $ git clone https://github.com/ozdemirburak/laravel-5-simple-cms.git CUSTOM_DIRECTORY
+    $ git clone -b 5.1 https://github.com/ozdemirburak/laravel-5-simple-cms.git CUSTOM_DIRECTORY
     $ cd CUSTOM_DIRECTORY
     $ curl -s https://getcomposer.org/installer | php
     $ php composer.phar install
