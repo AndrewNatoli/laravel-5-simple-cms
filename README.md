@@ -289,7 +289,7 @@ class FruitController extends Controller {
             ->addColumn(trans('admin.fields.fruit.title'), trans('admin.fields.updated_at'))
             ->addColumn(trans('admin.ops.name'))
             ->setUrl(route('api.table.fruit'))
-            ->setOptions(array('sPaginationType' => 'bs_normal', 'oLanguage' => trans('admin.datatables')))
+            ->setOptions(dataTableOptions())
             ->render();
     }
 }
