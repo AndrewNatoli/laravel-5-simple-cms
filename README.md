@@ -82,7 +82,8 @@ See [this Stack Overflow question](https://stackoverflow.com/questions/8656089/s
 <a name="step1"></a>
 ### Step 1: Download the Repository
 
-Either Clone the repository using git clone: `git clone https://github.com/ozdemirburak/laravel-5-simple-cms.git CUSTOM_DIRECTORY` or install via <a target="_blank" href="https://github.com/ozdemirburak/laravel-5-simple-cms/archive/master.zip">zip</a> and extract to any of your folders you wish.
+Either Clone the repository using git clone: `git clone -b 5.1 https://github.com/ozdemirburak/laravel-5-simple-cms.git CUSTOM_DIRECTORY` or 
+install via <a target="_blank" href="https://github.com/ozdemirburak/laravel-5-simple-cms/archive/5.1.zip">zip</a> and extract to any of your folders you wish.
 
 -----
 <a name="step2"></a>
